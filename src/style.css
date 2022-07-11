@@ -1,0 +1,134 @@
+.container {
+    width: 317px;
+    height: 780px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: #1A1B21;
+    font-family: Inter, sans-serif;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.kuva{
+    width: 100%;
+    height: 100%;
+    max-height: 317px;
+    max-width: 317px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.otsikot {
+    text-align: center;
+}
+
+.nav--name{
+    font-size: 25px;
+    color: whitesmoke;
+}
+.nav--jobtitle{
+    font-size: 12.8px;
+    color: #F3BF99;
+    margin-top: -6px;
+}
+.nav--website{
+    font-size: 10.8px;
+    color: whitesmoke;
+    font-weight: 100;
+    margin-top: -9px;
+    margin-bottom: 16px;
+}
+
+.nappi{
+    margin-left: 35px;
+    margin-right: 35px;
+    height: 34px;
+    background-color: white;
+    border-radius: 6px;
+    display: flex;
+    
+    
+}
+
+.email{
+    
+    margin: auto;
+    margin-top: 9px;
+    margin-bottom: 9px;
+    margin-right: 100px;
+ 
+}
+
+.posti{
+    width: 16px;
+    height: 16px;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 7px;
+    margin-left: 80px;
+
+}
+    
+
+.otsikko1{
+    margin-left: 35px;
+    color: white;
+    font-size: 16px;
+}
+
+.otsikko2{
+    margin-left: 35px;
+    color: white;
+    font-size: 16px;
+    
+}
+
+.teksti1 {
+    font-size: 10.24px;
+    color: white;
+    margin-left: 35px;
+    margin-right: 35px;
+    margin-top: -5px;
+    margin-bottom: 25px;
+}
+
+.teksti2 {
+    font-size: 10.24px;
+    color: white;
+    margin-left: 35px;
+    margin-right: 35px;
+    margin-top: -5px;
+}
+
+.alapalikka {
+    display: flex;
+    margin-top: 10px;
+    height: 53px;
+    width: 317px;
+    background-color: #161619;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+}
+
+.instagram {
+    height: 25px;
+    width: 25px;
+    margin: 0 auto;
+    margin-top: 15px;
+    
+}
+
+.twitter {
+    height: 25px;
+    width: 25px;
+    margin: 0 auto;
+    margin-top: 15px;
+ 
+}
+
+.linkedin {
+    height: 25px;
+    width: 25px;
+    margin: 0 auto;
+    margin-top: 15px;
+}
