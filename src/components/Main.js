@@ -27,8 +27,8 @@ export default function Main() {
                 - “I am neither especially clever nor especially gifted. I am only very, 
                 very curious” and I approve this.  </p>
                 <h4 className="otsikko2">Interests</h4>
-                <p className="teksti2">Asian cuisine is close to my heart, modern technology is freakin 
-                interesting and especially VR/AR technology. Sports and travelling 
+                <p className="teksti2">Asian cuisine is close to my heart and modern technology is 
+                interesting. Sports and travelling 
                 are close to my heart and I just love spending time with my friends. </p>
             </p>
             
